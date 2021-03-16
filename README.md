@@ -1,0 +1,3 @@
+# TestProjectForTransferToGitHub
+
+Fake project whose sole purpose is to try the gitlab --> github migration, with the issues etc...
